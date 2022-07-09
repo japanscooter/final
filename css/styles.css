@@ -1,0 +1,12 @@
+header {
+  background-color: white; }
+  header .navbar-light .navbar-nav .nav-link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #000000; }
+
+/*# sourceMappingURL=styles.css.map */
