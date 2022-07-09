@@ -1,12 +1,23 @@
+@media (min-width: 1200px) {
+  header .container {
+    max-width: 1440px; } }
+@media (min-width: 1200px) {
+  .main_banner .container {
+    max-width: 1294px; } }
 header {
   background-color: white; }
   header .navbar-light .navbar-nav .nav-link {
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     text-transform: uppercase;
     color: #000000; }
+
+.main_banner {
+  background-color: #DCE5E2;
+  background-size: cover;
+  height: 77vh; }
 
 /*# sourceMappingURL=styles.css.map */
